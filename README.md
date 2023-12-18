@@ -6,7 +6,6 @@
 ![ ](https://img.shields.io/badge/Resolution-960x540-ff69b4.svg?style=plastic)
 ![ ](https://img.shields.io/badge/FR-30fps-ff69b4.svg?style=plastic)
 
-Sample Image
 <div align="center"><img src=./Overview.jpg></div>
 
 ## 🍀 Overview
@@ -23,21 +22,21 @@ In this study, we **manually capture** the  Bangla License Plate dataset. We hav
 * Views (front 👆, left👈, right👉)
 * Time (day, night)
 * Dress (different colors)
-* Camera (DSLR, smaprtphone)
+* Camera (DSLR, smartphone)
 
 
 
 ## 🎁 Download
-To get access the full dataset please send an [email](mailto:mahedi0803@gmail.com) with your real name, institution. We will get back to you with the MV-BSLD dataset within a week.
+To get access to the full dataset please send an [email](mailto:mahedi0803@gmail.com) with your real name, and institution. We will get back to you with the MV-BSLD dataset within a week.
 
 
 
 **🎯 Terms of Use**
-Use of the provided Bangla License Plate Dataset will be deemed and treated as the user agreeing to and accepting the following Terms of Use content:
+Use of the provided Multi-View Bangla Sign Language Datasett will be deemed and treated as the user agreeing to and accepting the following Terms of Use content:
 
 * The user understands that the use of Dataset is restricted to research purposes only. Any commercial or for-profit purposes are prohibited.
-* Use of the FFHQ-Text Dataset by the user for unauthorized distribution, direct sales, or commercial business is prohibited. 
-* The Bangla License Plate Dataset makes no warranties regarding the usefulness, accuracy, legality, morality, timeliness, and appropriateness of the information acquisition.
+* Use of the MV-BSLD by the user for unauthorized distribution, direct sales, or commercial business is prohibited. 
+* The MV-BSLD makes no warranties regarding the usefulness, accuracy, legality, morality, timeliness, and appropriateness of the information acquisition.
 
 
 ## ⭐Citation
