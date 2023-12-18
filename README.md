@@ -17,7 +17,7 @@ The absence of an extensive Bangla sign language video dataset presents a signif
 
 The MV-BSLD dataset is meticulously curated, featuring a selection of 50 isolated words across 13 different categories, focusing on both general vocabulary and emergency-related terms. Signers wore clothes of various colors and performed the signs while seated. These videos were recorded at 30 frames per second, capturing three camera angles—front, left side, and right side—against a green background
 
-In this study, we **manually capture** the  Bangla License Plate dataset. We have the following variations on our dataset:
+In this study, we **manually capture** the Multi-View Bangla Sign Language Dataset. We have the following variations on our dataset:
 * Words (50) 
 * Views (front 👆, left👈, right👉)
 * Time (day, night)
@@ -27,7 +27,7 @@ In this study, we **manually capture** the  Bangla License Plate dataset. We hav
 
 
 ## 🎁 Download
-To get access to the full dataset please send an [email](mailto:mahedi0803@gmail.com) with your real name, and institution. We will get back to you with the MV-BSLD dataset within a week.
+To get access to the full dataset please send an [email](mailto:mahedi0803@gmail.com) with your real name and institution. We will get back to you with the MV-BSLD dataset within a week.
 
 
 
